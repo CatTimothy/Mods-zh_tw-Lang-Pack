@@ -1,0 +1,47 @@
+#由CatTimothy翻譯
+
+# Creative tabs
+itemGroup.locks=Locks
+
+# Items
+item.locks.lock.name=鎖
+item.locks.lock_pick.name=拆鎖工具
+item.locks.key.name=鑰匙
+item.locks.master_key.name=萬能鑰匙
+item.locks.key_blank.name=空白鑰匙
+item.locks.key_ring.name=鑰匙圈
+
+# GUIs
+locks.gui.lockpicking.title=拆鎖工具
+locks.gui.lockpicking.open=按「ESC」開啟門
+
+# Sounds
+locks.subtitle.key_ring=鑰匙聲
+locks.subtitle.lock.close=上鎖聲
+locks.subtitle.lock.open=開鎖聲
+locks.subtitle.lock.rattle=鎖響聲
+locks.subtitle.pin.fail=引腳按下失敗
+locks.subtitle.pin.match=引腳按下成功
+
+# Configuration
+locks.general.main=主要設定
+locks.general.main.tooltip=影響伺服器和用戶端的選項
+locks.general.main.lock_length=鎖最大長度
+locks.general.main.lock_length.tooltip=單一新鎖的長度
+locks.general.main.lock_pick_strength=鎖拆除難度
+locks.general.main.lock_pick_strength.tooltip=拆鎖工具損壞機率
+locks.general.main.lockable_volume=可鎖定卷
+locks.general.main.lockable_volume.tooltip=單一新鎖的最大允許音量
+locks.general.main.lockable_blocks=可鎖定區塊
+locks.general.main.lockable_blocks.tooltip=可以鎖定的塊。語法是 mod 網域,後跟塊的註冊表名
+locks.general.main.generate_locks=產生鎖定的箱子
+locks.general.main.generate_locks.tooltip=使用隨機鎖產生每個新箱子
+locks.general.main.remove_locks=允許拆除鎖
+locks.general.main.remove_locks.tooltip=解鎖後可以空手拆除
+locks.general.main.unbreakable_locks=不可破壞鎖
+locks.general.main.unbreakable_locks.tooltip=鎖定的區塊不能在生存模式下銷毀
+
+locks.general.client=用戶端選項
+locks.general.client.tooltip=只影響客戶端的選項
+locks.general.client.enable_cui=允許開啟CUI
+locks.general.client.enable_cui.tooltip=允許個人端顯示放置裝鎖介面
