@@ -1,0 +1,40 @@
+#由CatTimothy翻譯
+
+jukebox.translated=由CatTimothy翻譯
+
+jukebox.title=MineAmp
+jukebox.play=播放
+jukebox.pause=暫停
+jukebox.unpause=取消使用
+jukeboxplaypause=播放/暫停
+jukebox.stop=停止
+jukebox.previous=上一個
+jukebox.next=下一個
+
+jukebox.shuffle=隨機
+jukebox.volume=體積
+jukebox.progress=進展
+
+jukebox.root=Root
+jukebox.desktop=桌面
+jukebox.home=主頁
+jukebox.minecraftmusic=Minecraft 音樂
+jukebox.parent=Parent
+jukebox.current=目前
+jukebox.currentdirectory=目前目錄
+jukebox.nowplaying=正在播放
+
+jukebox.optionstitle=MineAmp 設定
+jukebox.onscreendisplay=螢幕顯示
+jukebox.showhidden=顯示隱藏檔案
+
+jukebox.controls=MineAmp 控制
+
+key.jukebox.jukeboxmenu=MineAmp 介面
+key.jukebox.menu=選單
+key.jukebox.previous=以前
+key.jukebox.playpause=播放/暫停
+key.jukebox.next=下一個
+key.jukebox.volumeup=增加音量
+key.jukebox.volumedown=降低音量
+
