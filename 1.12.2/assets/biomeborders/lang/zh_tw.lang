@@ -1,0 +1,8 @@
+#由CatTimothy翻譯
+
+biomeborders.config.title=生物群系邊框設定
+biomeborders.config.name=生物群系邊界復活
+biomeborders.config.radius=繪圖半徑(區塊)
+biomeborders.config.lineheight=邊界線高度(格數)
+biomeborders.config.unlimited=無限高度(y=0 到 y=256)
+biomeborders.control.toggle=切換生物群系邊框
